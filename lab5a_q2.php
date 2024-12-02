@@ -19,19 +19,19 @@
 // Associative array of students
 $students = [
     [
-        "name" => "Ahmad",
-        "program" => "BIW",
-        "age" => 23
+        "name" => "Alice",
+        "program" => "BIP",
+        "age" => 20
     ],
     [
-        "name" => "Amirul",
+        "name" => "Bob",
         "program" => "BIS",
-        "age" => 22
+        "age" => 21
     ],
     [
-        "name" => "Aiman",
-        "program" => "BIM",
-        "age" => 21
+        "name" => "Raju",
+        "program" => "BIT",
+        "age" => 22
     ]
 ];
 ?>
